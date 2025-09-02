@@ -25,6 +25,6 @@
 ###  Pet Projects
 - ✅ [To-Do Desk](https://to-do-desk.netlify.app/) — SPA app for task management  [Code](https://github.com/YanaRosina/to-do-desk)
 
-- 🔢 [Number Facts](https://number-api-project.netlify.app/) — generate and display interesting number facts  [Code](https://github.com/YanaRosina/number-api)
+- 🎈 [Simon-game](https://yanarosina.github.io/Simon-game/) — the Simon game is implemented on Vue js  [Code](https://github.com/YanaRosina/Client-Creation-Form)
 
 - 📝 [CV Page](https://yanarosina.github.io/cv-rosina-iana/) — single-page resume with clean design  [Code](https://github.com/YanaRosina/cv-rosina-iana)
